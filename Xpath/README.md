@@ -2,7 +2,7 @@
 
 <p>Xpath is a python open source Sql injector that automates the process of detecting and exploiting error-based injection security flaws. At the moment, DBMS supported by Xpath is mysql. Please note that this project is an early state. As such, you might find bugs, flaws or mulfunctions. Use it at your own risk!.</p>
 
-!Youtube(<a href="http://bd-cyber-mafia.blogspot.com/">3rR0r Pr1Nc3</a>)
+(<a href="https://www.youtube.com/c/bd-cyber-mafia">Bd Cyber Mafia</a>)
 
 ### Date
 
@@ -29,7 +29,7 @@
 
 <pre><code>
 xpath tool v2.0 - Automated Xpath Sql Injection
-Author: Mizanur Rahman [Ariyan Aanan] (<a href="http://bd-cyber-mafia.blogspot.com/">3rR0r Pr1Nc3</a>)
+Author: Mizanur Rahman [Ariyan Aanan] (<a href="https://www.google.com/search?q=3rr0r+pr1nc3">3rR0r Pr1Nc3</a>)
 Usage: xpath.py [options]
 Options:
   -h, --help           Show basic help message and exit
