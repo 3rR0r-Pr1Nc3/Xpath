@@ -29,7 +29,7 @@
 
 <pre><code>
 xpath tool v2.0 - Automated Xpath Sql Injection
-Author: Nasir khan (<a href="http://bd-cyber-mafia.blogspot.com/">3rR0r Pr1Nc3</a>)
+Author: Mizanur Rahman [Ariyan Aanan] (<a href="http://bd-cyber-mafia.blogspot.com/">3rR0r Pr1Nc3</a>)
 Usage: xpath.py [options]
 Options:
   -h, --help           Show basic help message and exit
